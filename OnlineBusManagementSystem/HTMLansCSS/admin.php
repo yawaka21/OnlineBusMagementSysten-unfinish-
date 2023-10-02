@@ -30,10 +30,11 @@
             <input type="text" name="username"><br>
             <label for="">Password:</label>
             <input class="pass" type="password" name="password"> <br>
-            <button>Log in</button>
+            <button><a href="Admin-busInformation.php">Log in</a></button>
         </form>
 
         <a href="register-admin.php"> <p class="registerp">Register</p></a>
     </div>
 </body>
 </html>
+
